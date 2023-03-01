@@ -1,8 +1,8 @@
 ### Opa, tudo bem? Meu nome é Victor Jardim 👋
 Desenvolvedor Front-End Web
 
-- 🔭 Há pouco mais de um ano, iniciei meus estudos em frond-end web
-- 🌱 Estou estudando atualmente JavaScript!
+- 🖥️ Há pouco mais de um ano, iniciei meus estudos em frond-end web
+- 📚 Estou estudando atualmente JavaScript!
 - 📫 Meus contatos:<br>
 <a href="https://www.victorjardim.dev/" target="_blank">Meu Site</a><br>
 <a href="https://www.linkedin.com/in/victorjardim-dev/" target="_blank">Linkedin: victorjardim-dev</a><br>
