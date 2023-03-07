@@ -23,6 +23,5 @@ Quando comecei meus estudos em programação, me apaixonei por desenvolvimento w
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorjardim-dev/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorjardim.dev/)
 [![github](https://img.shields.io/badge/github-080808?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorjardim-dev/)
-[![codepen](https://img.shields.io/badge/codepen-303030?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victorjardimdev/)
 [![email](https://img.shields.io/badge/email-071c22?style=for-the-badge&logo=Mailgun&logoColor=white)](mailto:contato@victorjardim.dev)
 
