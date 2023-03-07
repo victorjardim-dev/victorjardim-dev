@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Jardim!
+# 👋 Olá, eu sou o Victor Jardim!
 || Programador Front End Web & UI Designer em **formação**.
 
 ## 🚀 Sobre mim
