@@ -19,7 +19,7 @@ Quando comecei meus estudos em programação, me apaixonei por desenvolvimento w
 
 ## 🔗 Meus Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-76d?style=for-the-badge&logo=Home-Assistant&logoColor=white)](https://victorjardim.dev/)
+[![portfolio](https://img.shields.io/badge/meu_portfolio-76d?style=for-the-badge&logo=Home-Assistant&logoColor=white)](https://victorjardim.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorjardim-dev/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorjardim.dev/)
 [![github](https://img.shields.io/badge/github-080808?style=for-the-badge&logo=github&logoColor=white)](https://codepen.io/victorjardimdev/)
