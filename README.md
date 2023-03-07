@@ -12,6 +12,7 @@ Quando comecei meus estudos em programação, me apaixonei por desenvolvimento w
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-7C4DFF?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
 </div><br/>
 
 - Meu foco ultimamente tem sido o front end. Mas aos poucos também tenho estudado as tecnologias de back-end como: **PHP**, **Node JS** e **SQL**.
