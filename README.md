@@ -1,26 +1,50 @@
-# 👋 Olá, eu sou o Victor Jardim!
-|| Programador Front End Web & UI Designer em **formação**.
+# 👋 Olá! Bem-vindo ao meu perfil no GitHub
 
-## 🚀 Sobre mim
-Quando comecei meus estudos em programação, me apaixonei por desenvolvimento web, e desde então venho me dedicando ao estudo do front end e criação de interfaces.
+Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvolvedor web com foco em **Front-End**, mas com experiência e projetos em **Back-End** também! Minha principal tecnologia é o **JavaScript**, mas estou sempre expandindo meus conhecimentos.
 
-- 🧠 Atualmente estou estudando e me aprimorando em **JavaScript**;
+---
 
-## 🛠 Minhas Habilidades
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React_JS-4d566c?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-7C4DFF?style=for-the-badge&logo=figma&logoColor=white" />
-</div><br/>
+## 🚀 Sobre Mim
 
-- Meu foco ultimamente tem sido o front end. Mas aos poucos também tenho estudado as tecnologias de back-end como: **PHP**, **Node JS** e **SQL**.
+- 🎯 **Desenvolvedor Web** com ênfase em **criação de interfaces dinâmicas e responsivas**.
+- 🔄 **Full Stack em crescimento**: construi APIs do zero utilizando **Node.js**, além de painéis administrativos funcionais.
+- 🌱 Sempre aprendendo novas tecnologias e explorando diferentes áreas do desenvolvimento.
+- 📍 Local: Fortaleza/CE - Brasil
 
-## 🔗 Meus Links
+---
 
-[![portfolio](https://img.shields.io/badge/meu_portfolio-76d?style=for-the-badge&logo=Home-Assistant&logoColor=white)](https://victorjardim.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorjardim-dev/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorjardim.dev/)
-[![codepen](https://img.shields.io/badge/codepen-303030?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victorjardimdev/)
-[![email](https://img.shields.io/badge/email-071c22?style=for-the-badge&logo=Mailgun&logoColor=white)](mailto:contato@victorjardim.dev)
+## 🛠️ Tecnologias e Ferramentas
+
+- **Front-End**: JavaScript (ES6+), HTML5, CSS3 | Em estudo: VueJS e ReactJS
+- **Back-End**: Node.js, PHP
+- **Banco de Dados**: SQL (MySQL, SQL Server)
+- **Ferramentas**: Webpack, Git/GitHub, Postman, Figma, Sequelize, SQL Builders como KnexJS
+- **Outros**: APIs REST, conceitos de UX/UI, SEO, WordPress
+
+---
+
+## 🌟 Projetos em Destaque
+
+### 📦 API e Painel Administrativo para Loja Virtual de Informática (Em Desenvolvimento)
+- [📦 API ](https://github.com/victorjardim-dev/vkodebyte-api)
+- [📦 Painel Administrativo](https://github.com/vkodebyte-admin)
+> **Descrição**: Construção de uma API com validação de token e um painel administrativo para gerenciar uma loja virtual de produtos de informática. 
+> - **Tecnologias**: Node.js, Express, SQL, ReactJS, JW Token
+> - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo.
+
+### [🎨 Agência de Design](https://github.com/victorjardim-dev/agencia-design)
+> **Descrição**: Site responsivo para uma agência fictícia, demonstrando habilidades em ReactJS. Projeto de curso.
+> - **Tecnologias**: ReactJS, CSS3
+> - **Destaques**: Design responsivo, animações suaves, e SEO otimizado.
+
+---
+
+## 📢 Entre em Contato
+
+- **LinkedIn**: [Victor Jardim](https://linkedin.com/in/victorjardimdev)
+- **Instagram**: [@victorjardim.dev](https://www.instagram.com/victorjardim.dev/)
+- **Email**: contato@victorjardim.dev
+
+---
+
+> "A tecnologia move o mundo. E eu, movo projetos com ela." - Vick 😊
