@@ -32,6 +32,11 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 > - **Tecnologias**: Node.js, Express, SQL, ReactJS, JW Token
 > - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo.
 
+### [🎨 Alfatech](https://github.com/victorjardim-dev/alfatech)
+> **Descrição**: Projeto feito nas missões da Devmedia, onde utilizei HTML e CSS. Coloquei em prática semântica, responsividade, tabelas, navegação entre páginas, pseudo classes e pseudo elementos, e flexbox.
+> - **Tecnologias**: HTML e CSS
+> - **Destaques**: Design responsivo, animações suaves, e SEO otimizado.
+
 ### [🎨 Agência de Design](https://github.com/victorjardim-dev/agencia-design)
 > **Descrição**: Site responsivo para uma agência fictícia, demonstrando habilidades em ReactJS. Projeto de curso.
 > - **Tecnologias**: ReactJS, CSS3
