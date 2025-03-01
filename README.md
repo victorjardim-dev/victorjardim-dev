@@ -25,8 +25,8 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 
 ## 🌟 Projetos em Destaque
 
-### 📦 VKGames Store - Painel Administrativo
-- [📦 API ](https://github.com/victorjardim-dev/vkgames)
+### 🕹️ VKGames Store - Painel Administrativo
+- [🕹️ VKGames Store ](https://github.com/victorjardim-dev/vkgames)
 > **Descrição**: Painel administrativo simples para uma loja de jogos antigos, desenvolvido com Node.js, Express e EJS como engine de visualização. 
 > - **Tecnologias**: Node.js, Express, EJS, SQL, JW Token
 > - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo com recuperação de conta via e-mail.
