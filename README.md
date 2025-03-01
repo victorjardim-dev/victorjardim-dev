@@ -25,12 +25,11 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 
 ## 🌟 Projetos em Destaque
 
-### 📦 API e Painel Administrativo para Loja Virtual de Informática (Em Desenvolvimento)
-- [📦 API ](https://github.com/victorjardim-dev/vkodebyte-api)
-- [📦 Painel Administrativo](https://github.com/vkodebyte-admin)
-> **Descrição**: Construção de uma API com validação de token e um painel administrativo para gerenciar uma loja virtual de produtos de informática. 
-> - **Tecnologias**: Node.js, Express, SQL, ReactJS, JW Token
-> - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo.
+### 📦 VKGames Store - Painel Administrativo
+- [📦 API ](https://github.com/victorjardim-dev/vkgames)
+> **Descrição**: Painel administrativo simples para uma loja de jogos antigos, desenvolvido com Node.js, Express e EJS como engine de visualização. 
+> - **Tecnologias**: Node.js, Express, EJS, SQL, JW Token
+> - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo com recuperação de conta via e-mail.
 
 ### [🎨 Alfatech](https://github.com/victorjardim-dev/alfatech)
 > **Descrição**: Projeto feito nas missões da Devmedia, onde utilizei HTML e CSS. Coloquei em prática semântica, responsividade, tabelas, navegação entre páginas, pseudo classes e pseudo elementos, e flexbox.
