@@ -14,11 +14,11 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
+- **Em estudo**: TypeScript, VueJS e ReactJS
 - **Front-End**: JavaScript (ES6+), HTML5, CSS3 | Em estudo: VueJS e ReactJS
 - **Back-End**: Node.js, PHP
 - **Banco de Dados**: SQL (MySQL, SQL Server)
-- **Ferramentas**: Webpack, Git/GitHub, Postman, Figma, Sequelize, SQL Builders como KnexJS
+- **Ferramentas**: Webpack, Git/GitHub, Postman, Figma, Sequelize, SQL Builders como KnexJS, Jest JS
 - **Outros**: APIs REST, conceitos de UX/UI, SEO, WordPress
 
 ---
