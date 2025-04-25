@@ -34,7 +34,7 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 ### 📦 API e Painel Administrativo para Loja Virtual de Informática (Em Desenvolvimento)
  - [📦 API ](https://github.com/victorjardim-dev/vkodebyte-api)
  - [📦 Painel Administrativo](https://github.com/victorjardim-dev/vkodebyte-admin)
- - [📦 Ver Online]([https://github.com/victorjardim-dev/vkodebyte-admin](https://victorjardim.dev/meus-projetos/vkodebyte))
+ - [📦 Ver Online](https://victorjardim.dev/meus-projetos/vkodebyte/)
  > **Descrição**: Construção de uma API com validação de token e um painel administrativo para gerenciar uma loja virtual de produtos de informática. 
  > - **Tecnologias**: HTML/CSS/JS, Node.js, Express, MySQL, JW Token
  > - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo.
