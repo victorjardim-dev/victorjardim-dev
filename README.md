@@ -15,11 +15,11 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Em estudo**: TypeScript, VueJS e ReactJS
-- **Front-End**: JavaScript (ES6+), HTML5, CSS3 | Em estudo: VueJS e ReactJS
-- **Back-End**: Node.js, PHP
+- **Front-End**: JavaScript (ES6+), HTML5, CSS3
+- **Back-End**: Node.js, APIs REST
 - **Banco de Dados**: SQL (MySQL, SQL Server)
 - **Ferramentas**: Webpack, Git/GitHub, Postman, Figma, Sequelize, SQL Builders como KnexJS, Jest JS
-- **Outros**: APIs REST, conceitos de UX/UI, SEO, WordPress
+- **Outros**: PHP, conceitos de UX/UI, SEO, WordPress
 
 ---
 
@@ -28,7 +28,7 @@ Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvol
 ### 🕹️ VKGames Store - Painel Administrativo
 - [🕹️ VKGames Store ](https://github.com/victorjardim-dev/vkgames)
 > **Descrição**: Painel administrativo simples para uma loja de jogos antigos, desenvolvido com Node.js, Express e EJS como engine de visualização. 
-> - **Tecnologias**: Node.js, Express, EJS, SQL, JW Token
+> - **Tecnologias**: Node.js, Express, EJS/HTML/CSS/JS, MySQL, JW Token
 > - **Destaques**: Cadastro de produtos, gerenciamento de usuários, sistema de autenticação e um painel administrativo intuitivo e responsivo com recuperação de conta via e-mail.
 
 ### 📦 API e Painel Administrativo para Loja Virtual de Informática (Em Desenvolvimento)
