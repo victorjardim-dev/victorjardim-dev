@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub
 
-Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvolvedor web com foco em **Front-End**, mas com experiência e projetos em **Back-End** também! Minha principal tecnologia é o **JavaScript**, mas estou sempre expandindo meus conhecimentos.
+Eu sou o **Victor Jardim** (ou Vick para os mais chegados 👨‍💻), desenvolvedor Fullstack JavaScript/TypeScript, mas estou sempre expandindo meus conhecimentos.
 
 ---
 
